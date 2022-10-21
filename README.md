@@ -1,4 +1,4 @@
-# PHP & jQuery Alış-veriş Sepeti
+# PHP & jQuery Alışveriş Sepeti
 Php ve Jquery kullanarak alışveriş sepeti yapımı.  
   
 @._.@  
