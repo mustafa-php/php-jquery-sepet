@@ -1,8 +1,8 @@
 # PHP & jQuery Alış-veriş Sepeti
 Php ve Jquery kullanarak alışveriş sepeti yapımı.  
-@
-._.
-@  
+  
+@._.@  
+  
 Peki hangi dilden hangi özellikler kullanıldı ;  
   
 PHP :  
